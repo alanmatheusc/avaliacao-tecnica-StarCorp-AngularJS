@@ -34,6 +34,10 @@ Limitador de Caracteres:
 Adicionar um limitador de caracteres nos campos de entrada, especialmente aqueles que possuem restrições de tamanho na API. Isso ajudará a evitar erros de validação e garantirá que os dados enviados estejam dentro dos limites permitidos.
 Essas melhorias contribuirão para uma melhor experiência do usuário, redução de erros de validação e aumento da segurança no acesso aos recursos da API. As implementações propostas visam garantir a eficiência e a confiabilidade do sistema em futuras iterações.
 
+Data de Nascimento:
+
+Na tela de Edição de Pessoa, formatar a data que foi buscada do Back-End para adicionar a mesma no INPUT de Data de Nascimento, para aparecer com o restante dos dados.
+
 
 VERSÃO DO ANGULAR: 1.8.3
 VERSÃO DO BOOTSTRAP:5.3.3
