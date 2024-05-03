@@ -1,6 +1,3 @@
-Avaliação Técnica - StarCorp
-
-1° Avaliação Angular.js:
 Desenvolver telas de cadastro, edição e listagem de pessoas. Cada pessoa poderá cadastrar
 mais de um endereço, formando uma listagem de endereços.
 1. Ferramentas a serem utilizadas:
